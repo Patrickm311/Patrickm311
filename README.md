@@ -54,7 +54,7 @@ I'm now combining that experience with software engineering to build tools and w
 
 ---
 
-## 📫 Get in touch
+##  Get in touch
 
 - LinkedIn: [https://www.linkedin.com/in/patrickm311](https://www.linkedin.com/in/patrickm311)  
 - Location: Austin, Texas  
