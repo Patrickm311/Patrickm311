@@ -1,4 +1,4 @@
-# Hi, I'm Patrick 👋
+# Hi, I'm Patrick 
 
 I'm a transportation operations supervisor transitioning into full‑stack web development.  
 I recently completed my Computer Science degree (2026) and I'm focused on building real‑world web applications with JavaScript, React, and Node.js/Express.
@@ -7,7 +7,7 @@ Right now I'm working on a full‑stack e‑commerce application to showcase my 
 
 ---
 
-## 🔧 Tech stack & tools
+##  Tech stack & tools
 
 - Languages: JavaScript, HTML, CSS, Java  
 - Frontend: React, modern JavaScript (ES6+)  
@@ -17,7 +17,7 @@ Right now I'm working on a full‑stack e‑commerce application to showcase my 
 
 ---
 
-## 🛒 Featured project: Full‑stack E‑commerce App
+##  Featured project: Full‑stack E‑commerce App
 
 **Repo:** [fullstack-ecommerce-app](https://github.com/Patrickm311/fullstack-ecommerce-app)
 
@@ -32,7 +32,7 @@ The goal of this project is to practice real‑world full‑stack patterns, from
 
 ---
 
-## 💼 Professional background
+##  Professional background
 
 Before software development, I spent several years in transportation and logistics as a supervisor/manager, where I:
 
@@ -46,7 +46,7 @@ I'm now combining that experience with software engineering to build tools and w
 
 ---
 
-## 📚 What I'm learning now
+##  What I'm learning now
 
 - Deepening my full‑stack skills through an e‑commerce build (React + Node/Express)  
 - Backend API design and authentication  
